@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NotionClient/NotionClient.csproj" />
+    <Project Path="src/NotionCli/NotionCli.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Tests/Tests.csproj" />
+    <Project Path="test/NotionCli.Tests/NotionCli.Tests.csproj" />
+  </Folder>
+</Solution>
