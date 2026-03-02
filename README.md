@@ -7,10 +7,12 @@
 
 A .NET 10 client library and CLI tool for the [Notion API](https://developers.notion.com/) (API version `2025-09-03`), ported from the official [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) v5.9.0.
 
-| Package | NuGet | Downloads |
-|---------|-------|-----------|
-| **DamianH.NotionClient** — .NET client library for the Notion API | [![NuGet](https://img.shields.io/nuget/v/DamianH.NotionClient.svg)](https://www.nuget.org/packages/DamianH.NotionClient/) | [![Downloads](https://img.shields.io/nuget/dt/DamianH.NotionClient.svg)](https://www.nuget.org/packages/DamianH.NotionClient/) |
-| **DamianH.NotionCli** — .NET CLI tool for the Notion API | [![NuGet](https://img.shields.io/nuget/v/DamianH.NotionCli.svg)](https://www.nuget.org/packages/DamianH.NotionCli/) | [![Downloads](https://img.shields.io/nuget/dt/DamianH.NotionCli.svg)](https://www.nuget.org/packages/DamianH.NotionCli/) |
+## Packages
+
+| Package | Description | NuGet | Downloads |
+|---------|-------------|-------|-----------|
+| **DamianH.NotionClient** | .NET client library for the Notion API | [![NuGet](https://img.shields.io/nuget/v/DamianH.NotionClient.svg)](https://www.nuget.org/packages/DamianH.NotionClient/) | [![Downloads](https://img.shields.io/nuget/dt/DamianH.NotionClient.svg)](https://www.nuget.org/packages/DamianH.NotionClient/) |
+| **DamianH.NotionCli** | .NET CLI tool for the Notion API | [![NuGet](https://img.shields.io/nuget/v/DamianH.NotionCli.svg)](https://www.nuget.org/packages/DamianH.NotionCli/) | [![Downloads](https://img.shields.io/nuget/dt/DamianH.NotionCli.svg)](https://www.nuget.org/packages/DamianH.NotionCli/) |
 
 ## Table of Contents
 
